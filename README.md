@@ -20,7 +20,11 @@
 ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)  
 
 ### Visualization & Documentation
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Manim](https://img.shields.io/badge/manim-%23000000.svg?style=for-the-badge&logo=manim&logoColor=white)  
+![Manim](https://img.shields.io/badge/manim-%23000000.svg?style=for-the-badge&logo=manim&logoColor=white)  
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
 
 ### Hardware & Embedded Systems
 ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/esp32-%23000000.svg?style=for-the-badge&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-%23C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white) ![Jetson Nano](https://img.shields.io/badge/jetson%20nano-%23076D6D.svg?style=for-the-badge&logo=nvidia&logoColor=white)  
