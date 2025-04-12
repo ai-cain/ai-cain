@@ -5,6 +5,13 @@
 📘 **Current Quest**: Learning advanced visualization techniques with Manim and exploring frameworks like Qt for GUI development.<br>
 🌟 **Fun Fact**: I enjoy combining creativity with logic—whether it's crafting animations, designing circuits, or solving complex problems.
 
+
+## 🎓 Education:
+- **Mechatronics Engineer**: Specialized in robotics, embedded systems, and automation.
+- **Master's Student in Mathematics**: Focused on applied mathematics, data analysis, and computational modeling.
+
+---
+
 ---
 ## SKILL 
 ### Programming Languages & Libraries
