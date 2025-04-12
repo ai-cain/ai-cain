@@ -80,6 +80,10 @@
 <!--- trophy (start) -->
 
 
+<div align="center">
+  <img src="https://line-count.vercel.app/asdcainicela/repo?style=flat&theme=radical" alt="Line Count">
+</div>
+
 </p>        
 <!--- stats (end) -->
 
