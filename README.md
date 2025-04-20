@@ -100,6 +100,8 @@
 
 ---
 
+🎧 Currently enjoying: [The Cranberries – Dreams](https://youtu.be/6hzrDeceEKc?si=L8AvPoT0aQ4XJiAc)
+
 Credit: [asdCain](https://github.com/asdcainicela)
 
 Last Edited on: 04/11/2025
