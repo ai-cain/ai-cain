@@ -100,7 +100,7 @@
 
 ---
 
-🎧 Currently enjoying: [The Cranberries – Dreams](https://youtu.be/6hzrDeceEKc?si=L8AvPoT0aQ4XJiAc)
+🎧 Currently enjoying: [Oasis - Wonderwall](https://youtu.be/6hzrDeceEKc?si=L8AvPoT0aQ4XJiAc)
 
 Credit: [asdCain](https://github.com/asdcainicela)
 
