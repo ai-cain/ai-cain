@@ -106,11 +106,6 @@
 
 <!--- 📊 Stats & 🏆 Trophy Section (End) -->
 
-
----
-
-[![](https://visitcount.itsvg.in/api?id=asdCain&icon=2&color=4)](https://visitcount.itsvg.in)
-
 ---
 
 🎧 Currently enjoying: [Paloma Faith - Only Love Can Hurt Like This](https://youtu.be/PaKr9gWqwl4?si=1X8K4-TxSpnn2JlY)
