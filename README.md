@@ -7,12 +7,14 @@
 🔗 [Jump to Home](https://asdcainicela.github.io/portfolio/#home)
 
 
-# 💫 About Me:
-🚀 **Exploring the Data Science Universe**: Currently diving into Python, LaTeX, and Manim to create impactful visualizations and insights.<br>
-🔧 **Hardware Meets Software**: Passionate about programming for electronic components and bridging the gap between hardware and software.<br>
-🌐 **Collaboration Enthusiast**: Open to teaming up on Python, IA, or hardware-related projects.<br>
-📘 **Current Quest**: Learning advanced visualization techniques with Manim and exploring frameworks like Qt for GUI development.<br>
+# 💫 About Me
+
+👁️‍🗨️ **Exploring the Computer Vision Universe**: Currently diving into Python, LaTeX, and Manim to create impactful visualizations and perception-based systems.  
+🔧 **Hardware Meets Software**: Passionate about programming for electronic components and bridging the gap between hardware and software.  
+🌐 **Collaboration Enthusiast**: Open to teaming up on Python, AI, or hardware-related projects.  
+📘 **Current Quest**: Learning advanced visualization techniques with Manim and exploring frameworks like Qt for GUI development.  
 🌟 **Fun Fact**: I enjoy combining creativity with logic—whether it's crafting animations, designing circuits, or solving complex problems.
+
 
 
 ## 🎓 Education:
