@@ -111,8 +111,8 @@
 
 ---
 
-🎧 Currently enjoying: [Oasis - Wonderwall](https://youtu.be/6hzrDeceEKc?si=L8AvPoT0aQ4XJiAc)
+🎧 Currently enjoying: [Paloma Faith - Only Love Can Hurt Like This](https://youtu.be/PaKr9gWqwl4?si=1X8K4-TxSpnn2JlY)
 
 Credit: [asdCain](https://github.com/asdcainicela)
 
-Last Edited on: 04/11/2025
+Last Edited on: 26/05/2025
