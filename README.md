@@ -8,6 +8,8 @@
 
 # 💫 About Me
 
+![Descripción](img/me.png)
+
 👁️‍🗨️ **Exploring the Computer Vision Universe**: Currently diving into Python, LaTeX, and Manim to create impactful visualizations and perception-based systems.  
 🔧 **Hardware Meets Software**: Passionate about programming for electronic components and bridging the gap between hardware and software.  
 🌐 **Collaboration Enthusiast**: Open to teaming up on Python, AI, or hardware-related projects.  
