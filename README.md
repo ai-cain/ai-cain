@@ -79,7 +79,6 @@
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=asdcainicela&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
-       
     </td>
   </tr>
 </table>
