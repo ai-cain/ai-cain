@@ -2,9 +2,8 @@
 	<img src = "https://komarev.com/ghpvc/?username=asdcainicela&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 
-🌐 **Live Portfolio Site:**  
-👉 [https://asdcainicela.github.io/portfolio](https://asdcainicela.github.io/portfolio)  
-🔗 [Jump to Home](https://asdcainicela.github.io/portfolio/#home)
+🌐 **Live Portfolio Site:**   
+👉🔗 [Jump to Home](https://asdcainicela.github.io/portfolio/#home)
 
 
 # 💫 About Me
