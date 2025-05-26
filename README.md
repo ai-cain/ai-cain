@@ -38,18 +38,21 @@
 | **IDEs**                   | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 ### 🚀 Future Goals
-- **Mastering Machine Learning**: Delve deeper into neural networks and advanced AI algorithms.
-- **Open Source Contributions**: Actively contribute to open-source projects in data science and hardware integration.
-- **IoT Innovations**: Develop projects that combine IoT devices with data analytics for real-world applications.
+
+- **Mastering Computer Vision & AI**: Deepen my understanding of neural networks, image processing, and real-time perception systems.  
+- **Open Source Contributions**: Actively contribute to open-source projects in computer vision, embedded systems, and GUI tools.  
+- **IoT & Edge Computing**: Create projects that combine IoT devices with computer vision for smart, real-world applications.  
 - **Community Engagement**: Share knowledge through blogs, tutorials, and workshops to inspire others in tech.
 
 ---
 
 ### 🌱 Hobbies & Interests
-- **Creative Coding**: Experimenting with generative art and algorithmic designs.
-- **DIY Electronics**: Building custom gadgets and exploring new microcontroller platforms.
-- **Tech Blogging**: Writing about programming, data science, and hardware projects.
-- **Gaming**: Enjoying strategy and simulation games during downtime.
+
+- **Creative Coding**: Experimenting with generative art, animations, and visual effects using Python and Manim.  
+- **DIY Electronics**: Building custom gadgets and exploring microcontroller platforms like Arduino, ESP32, and Jetson.  
+- **Tech Blogging**: Writing about programming, computer vision, embedded systems, and interactive visualizations.  
+- **Gaming**: Enjoying strategy and simulation games during downtime to recharge creatively.
+
 
 ---
 
