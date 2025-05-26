@@ -79,10 +79,7 @@
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=asdcainicela&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
-      <br><br>
-      <img src="https://github-contributor-stats.vercel.app/api?username=asdcainicela&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-      <br><br>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+       
     </td>
   </tr>
 </table>
