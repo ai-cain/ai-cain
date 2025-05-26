@@ -56,10 +56,13 @@
 ---
 
 ### 📫 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](  https://www.linkedin.com/in/gerald-cainicela/) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asdcainicela) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerald-cainicela/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asdcainicela)
+
 ---
 
- <!--- 📊 Stats & 🏆 Trophy Section (Start) -->
+<!--- 📊 Stats & 🏆 Trophy Section (Start) -->
 <p align="center">
 
 <table>
@@ -68,23 +71,27 @@
       <img src="https://github-readme-stats.vercel.app/api?username=asdcainicela&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
       <br><br>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=asdcainicela&theme=dark&hide_border=false" alt="GitHub Streak" />
+      <br><br>
+      <!--- 🏆 Reduced Trophy Section -->
+      <a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub Trophies">
+        <img width="80%" src="https://github-profile-trophy.vercel.app/?username=asdcainicela&theme=radical&row=1&column=4&no-bg=true&margin-w=10" alt="Trophies" />
+      </a>
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=asdcainicela&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
+      <br><br>
+      <img src="https://github-contributor-stats.vercel.app/api?username=asdcainicela&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+      <br><br>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
     </td>
   </tr>
 </table>
 
-<br>
-
-<!--- 🏆 Trophy Section -->
-<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-  <img align="center" width="98%" src="https://github-profile-trophy.vercel.app/?username=asdcainicela&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophies" />
-</a>
-
 </p>
+<!--- 📊 Stats & 🏆 Trophy Section (End) -->
 
 ---
+
 
 ### 🔝 Top Contributed Repos & ✍️ Dev Quote
 
