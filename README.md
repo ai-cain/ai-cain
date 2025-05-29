@@ -3,11 +3,11 @@
 </p>
 
 🌐 **Live Portfolio Site:**   
-<p align="center">
-  <a href="[https://asdcainicela.github.io/portfolio/#home]" target="_blank">
-    <strong>[👉🔗 Click here to see my portfolio](https://asdcainicela.github.io/portfolio/#home) </strong>
-  </a>
-</p>
+<div align="center">
+
+👉🔗 [Click here to see my portfolio](https://asdcainicela.github.io/portfolio/#home)
+
+</div>
 
 # 💫 About Me
 
