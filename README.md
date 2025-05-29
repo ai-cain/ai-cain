@@ -8,7 +8,9 @@
 
 # 💫 About Me
 
-<img src="img/me.png" alt="Descripción" width="50%">
+<p align="center">
+  <img src="img/me.png" alt="Descripción" width="50%">
+</p>
 
 👁️‍🗨️ **Exploring the Computer Vision Universe**: Currently diving into Python, LaTeX, and Manim to create impactful visualizations and perception-based systems.  
 🔧 **Hardware Meets Software**: Passionate about programming for electronic components and bridging the gap between hardware and software.  
