@@ -4,8 +4,8 @@
 
 🌐 **Live Portfolio Site:**   
 <p align="center">
-  <a href="[https://tusitio.com](https://asdcainicela.github.io/portfolio/#home)" target="_blank">
-    <strong>👉🔗 Click here to see my portfolio</strong>
+  <a href="[https://asdcainicela.github.io/portfolio/#home]" target="_blank">
+    <strong>[👉🔗 Click here to see my portfolio](https://asdcainicela.github.io/portfolio/#home) </strong>
   </a>
 </p>
 
