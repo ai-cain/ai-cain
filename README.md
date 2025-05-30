@@ -100,7 +100,7 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-contributor-stats.vercel.app/api?username=asdcainicela&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Repos" />
+      <img src="https://github-contributor-stats.vercel.app/api?username=asdcainicela&limit=3&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Repos" />
     </td>
     <td width="50%" align="center">
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
