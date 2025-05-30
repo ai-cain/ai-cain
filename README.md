@@ -77,14 +77,14 @@
       <img src="https://github-readme-stats.vercel.app/api?username=asdcainicela&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
       <br><br>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=asdcainicela&theme=dark&hide_border=false" alt="GitHub Streak" />
-      <br><br>
+    </td>
+    <td align="center" width="50%">
       <!--- 🏆 Reduced Trophy Section -->
       <a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub Trophies">
         <img width="80%" src="https://github-profile-trophy.vercel.app/?username=asdcainicela&theme=radical&row=1&column=4&no-bg=true&margin-w=10" alt="Trophies" />
       </a>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=asdcainicela&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
+	<br><br>
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=asdcainicela&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5" alt="Top Languages" />
     </td>
   </tr>
 </table>
