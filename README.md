@@ -112,7 +112,10 @@
 
 ---
 
-🎧 Currently enjoying: [Paloma Faith - Only Love Can Hurt Like This](https://youtu.be/PaKr9gWqwl4?si=1X8K4-TxSpnn2JlY)
+🎧 Currently enjoying:
+[Paloma Faith - Only Love Can Hurt Like This](https://youtu.be/PaKr9gWqwl4?si=1X8K4-TxSpnn2JlY)
+[Eddie Santiago- Lluvia](https://youtu.be/PaKr9gWqwl4?si=1X8K4-TxSpnn2JlY)
+
 
 Credit: [asdCain](https://github.com/asdcainicela)
 
