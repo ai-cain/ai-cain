@@ -84,7 +84,7 @@
         <img width="80%" src="https://github-profile-trophy.vercel.app/?username=asdcainicela&theme=radical&row=1&column=4&no-bg=true&margin-w=10" alt="Trophies" />
       </a>
 	<br><br>
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=asdcainicela&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5" alt="Top Languages" />
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asdcainicela&layout=compact&langs_count=8&theme=dark"/>
     </td>
   </tr>
 </table>
