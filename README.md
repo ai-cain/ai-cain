@@ -11,21 +11,11 @@
 
 # 💫 About Me
 
-<p align="center">
-  <img src="img/me.png" alt="Descripción" width="25%">
-</p>
-
 👁️‍🗨️ **Exploring the Computer Vision Universe**: Currently diving into Python, LaTeX, and Manim to create impactful visualizations and perception-based systems.  
 🔧 **Hardware Meets Software**: Passionate about programming for electronic components and bridging the gap between hardware and software.  
 🌐 **Collaboration Enthusiast**: Open to teaming up on Python, AI, or hardware-related projects.  
 📘 **Current Quest**: Learning advanced visualization techniques with Manim and exploring frameworks like Qt for GUI development.  
 🌟 **Fun Fact**: I enjoy combining creativity with logic—whether it's crafting animations, designing circuits, or solving complex problems.
-
-
-
-## 🎓 Education:
-- **Mechatronics Engineer**: Specialized in robotics, embedded systems, and automation.
-- **Master's Student in Mathematics**: Focused on applied mathematics, data analysis, and computational modeling.
 
 ---
 
@@ -42,23 +32,6 @@
 | **Protocols**              | ![CAN](https://img.shields.io/badge/can-%23000000.svg?style=for-the-badge&logo=protocol&logoColor=white) ![I2C](https://img.shields.io/badge/i2c-%23000000.svg?style=for-the-badge&logo=protocol&logoColor=white) ![SPI](https://img.shields.io/badge/spi-%23000000.svg?style=for-the-badge&logo=protocol&logoColor=white) ![RS232](https://img.shields.io/badge/rs232-%23000000.svg?style=for-the-badge&logo=protocol&logoColor=white) ![J1939](https://img.shields.io/badge/j1939-%23000000.svg?style=for-the-badge&logo=protocol&logoColor=white) |
 | **Tools & Platforms**      | ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![AutoCAD](https://img.shields.io/badge/autocad-%23E11F26.svg?style=for-the-badge&logo=autodesk&logoColor=white) ![SolidWorks](https://img.shields.io/badge/solidworks-%23FF0000.svg?style=for-the-badge&logo=solidworks&logoColor=white) |
 | **IDEs**                   | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-
-### 🚀 Future Goals
-
-- **Mastering Computer Vision & AI**: Deepen my understanding of neural networks, image processing, and real-time perception systems.  
-- **Open Source Contributions**: Actively contribute to open-source projects in computer vision, embedded systems, and GUI tools.  
-- **IoT & Edge Computing**: Create projects that combine IoT devices with computer vision for smart, real-world applications.  
-- **Community Engagement**: Share knowledge through blogs, tutorials, and workshops to inspire others in tech.
-
----
-
-### 🌱 Hobbies & Interests
-
-- **Creative Coding**: Experimenting with generative art, animations, and visual effects using Python and Manim.  
-- **DIY Electronics**: Building custom gadgets and exploring microcontroller platforms like Arduino, ESP32, and Jetson.  
-- **Tech Blogging**: Writing about programming, computer vision, embedded systems, and interactive visualizations.  
-- **Gaming**: Enjoying strategy and simulation games during downtime to recharge creatively.
-
 
 ---
 
