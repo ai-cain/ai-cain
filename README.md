@@ -55,9 +55,9 @@
     </td>
     <td align="center" width="50%">
       <!--- 🏆 Reduced Trophy Section -->
-	  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=asdcainicela&theme=dark&hide_border=false" alt="GitHub Streak" />
+	  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=asdcainicela&theme=dark&hide_border=false" alt="GitHub Streak" />
 	<br><br>
-      <img height="95%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asdcainicela&layout=compact&langs_count=8&theme=dark"/>
+      <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asdcainicela&layout=compact&langs_count=8&theme=dark"/>
     </td>
   </tr>
 </table>
