@@ -25,9 +25,18 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asdcainicela&theme=tokyonight&utcOffset=-5" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asdcainicela&theme=tokyonight" />
+<table>
+<tr>
+<td width="30%" valign="top">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asdcainicela&theme=tokyonight&utcOffset=-5" />
+</td>
+<td width="60%" valign="top">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asdcainicela&theme=tokyonight" />
+</td>
+</tr>
+</table>
 </p>
+
 
 ---
 
@@ -184,10 +193,6 @@ Specialized in **real-time computer vision** and **industrial embedded systems**
 [Sidewalks and Skeletons - Goth (Slowed + Reverb)](https://youtu.be/zocCnn4-wvc?si=vhd8dE64X7fo_byZ)
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
 
 <p align="center">
   <i>Last updated: 13 Nov, 2025</i>
