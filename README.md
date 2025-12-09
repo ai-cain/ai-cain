@@ -172,7 +172,7 @@ Specialized in **real-time computer vision** and **industrial embedded systems**
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=asdcainicela&theme=tokyonight&no-frame=true&row=1&column=3&margin-w=10&margin-h=10&title=Commits,MultiLanguage,Repositories" />
 </td>
 <td width="48%" valign="top">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdcainicela&layout=compact&theme=tokyonight&hide_border=true&langs_count=12" />
+  <img width="90%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asdcainicela&layout=compact&theme=tokyonight&hide_border=true&langs_count=12" />
 </td>
 </tr>
 </table>
