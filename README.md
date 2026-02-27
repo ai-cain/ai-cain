@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asdcainicela&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ai-cain&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </p>
 
 <h1 align="center">
@@ -13,13 +13,13 @@
 </p>
 
 <p align="center">
-  <a href="https://asdcainicela.github.io/portfolio/#home">
+  <a href="https://ai-cain.github.io/portfolio/#home">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-blueviolet?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/gerald-cainicela/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/asdcainicela">
+  <a href="https://github.com/ai-cain">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -28,10 +28,10 @@
 <table>
 <tr>
 <td width="30%" valign="top">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asdcainicela&theme=tokyonight&utcOffset=-5" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ai-cain&theme=tokyonight&utcOffset=-5" />
 </td>
 <td width="60%" valign="top">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asdcainicela&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ai-cain&theme=tokyonight" />
 </td>
 </tr>
 </table>
@@ -167,12 +167,12 @@ Specialized in **real-time computer vision** and **industrial embedded systems**
 <table>
 <tr>
 <td width="48%" valign="top">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=asdcainicela&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ai-cain&theme=tokyonight&hide_border=true" />
   <br>
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=asdcainicela&theme=tokyonight&no-frame=true&row=1&column=3&margin-w=10&margin-h=10&title=Commits,MultiLanguage,Repositories" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ai-cain&theme=tokyonight&no-frame=true&row=1&column=3&margin-w=10&margin-h=10&title=Commits,MultiLanguage,Repositories" />
 </td>
 <td width="48%" valign="top">
-  <img width="90%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asdcainicela&layout=compact&theme=tokyonight&hide_border=true&langs_count=12" />
+  <img width="90%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ai-cain&layout=compact&theme=tokyonight&hide_border=true&langs_count=12" />
 </td>
 </tr>
 </table>
