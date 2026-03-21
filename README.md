@@ -115,14 +115,30 @@ Specialized in **real-time computer vision** and **industrial embedded systems**
 <summary><strong>🔬 Computer Vision & Inference</strong></summary>
 <br>
 
-| Repository | Description |
-|:--|:--|
-| [industrial-visual-inspection-engine](https://github.com/ai-cain/industrial-visual-inspection-engine) | Computer vision engine for industrial inspection and anomaly detection in production environments |
-| [real-time-vision-decision-system](https://github.com/ai-cain/real-time-vision-decision-system) | Real-time decision system built on top of CV pipelines for industrial and edge AI applications |
-| [event-driven-vision-processing-engine](https://github.com/ai-cain/event-driven-vision-processing-engine) | Event-driven CV engine for transforming video streams into structured decision events |
-| [low-latency-video-stream-orchestrator](https://github.com/ai-cain/low-latency-video-stream-orchestrator) | Low-latency video orchestration for distributing, processing, and routing real-time streams |
-| [qt-face-auth](https://github.com/ai-cain/qt-face-auth) | Face authentication system built with Qt/C++ |
-| [image-to-fourier-epicycle-pipeline](https://github.com/ai-cain/image-to-fourier-epicycle-pipeline) | Image to Fourier epicycle rendering pipeline in C++ |
+<p align="center">
+  <a href="https://github.com/ai-cain/industrial-visual-inspection-engine">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=industrial-visual-inspection-engine&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ai-cain/real-time-vision-decision-system">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=real-time-vision-decision-system&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ai-cain/event-driven-vision-processing-engine">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=event-driven-vision-processing-engine&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ai-cain/low-latency-video-stream-orchestrator">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=low-latency-video-stream-orchestrator&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ai-cain/qt-face-auth">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=qt-face-auth&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ai-cain/image-to-fourier-epicycle-pipeline">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=image-to-fourier-epicycle-pipeline&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 </details>
 
@@ -130,12 +146,22 @@ Specialized in **real-time computer vision** and **industrial embedded systems**
 <summary><strong>⚙️ Edge AI & System Orchestration</strong></summary>
 <br>
 
-| Repository | Description |
-|:--|:--|
-| [edge-ai-system-orchestrator](https://github.com/ai-cain/edge-ai-system-orchestrator) | Orchestrator for coordinating distributed edge AI modules: vision, sensors, and comms |
-| [multi-physics-simulation-and-control-system](https://github.com/ai-cain/multi-physics-simulation-and-control-system) | Simulation and control system integrating mechanical, electrical, and computational models |
-| [formal-specification-to-system-implementation](https://github.com/ai-cain/formal-specification-to-system-implementation) | Transforming formal logic specifications into executable engineering systems |
-| [symbolic-to-numeric-computation-pipeline](https://github.com/ai-cain/symbolic-to-numeric-computation-pipeline) | Symbolic-to-numeric computation pipeline |
+<p align="center">
+  <a href="https://github.com/ai-cain/edge-ai-system-orchestrator">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=edge-ai-system-orchestrator&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ai-cain/multi-physics-simulation-and-control-system">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=multi-physics-simulation-and-control-system&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ai-cain/formal-specification-to-system-implementation">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=formal-specification-to-system-implementation&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ai-cain/symbolic-to-numeric-computation-pipeline">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=symbolic-to-numeric-computation-pipeline&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 </details>
 
@@ -143,13 +169,27 @@ Specialized in **real-time computer vision** and **industrial embedded systems**
 <summary><strong>🧪 Labs & Experimentation</strong></summary>
 <br>
 
-| Repository | Description |
-|:--|:--|
-| [cpp-lab](https://github.com/ai-cain/cpp-lab) | C++ experiments and patterns |
-| [python-lab](https://github.com/ai-cain/python-lab) | Python courses and experiments |
-| [embedded-lab](https://github.com/ai-cain/embedded-lab) | Embedded systems experiments (ESP32, STM32) |
-| [qt-qml-lab](https://github.com/ai-cain/qt-qml-lab) | Qt/QML UI experiments |
-| [lean-math](https://github.com/ai-cain/lean-math) | Formal mathematics in Lean |
+<p align="center">
+  <a href="https://github.com/ai-cain/cpp-lab">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=cpp-lab&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ai-cain/python-lab">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=python-lab&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ai-cain/embedded-lab">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=embedded-lab&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ai-cain/qt-qml-lab">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=qt-qml-lab&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ai-cain/lean-math">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=lean-math&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 </details>
 
@@ -157,9 +197,11 @@ Specialized in **real-time computer vision** and **industrial embedded systems**
 <summary><strong>🏭 Industrial Automation & PLC</strong></summary>
 <br>
 
-| Repository | Description |
-|:--|:--|
-| [iec-61131-3-insights](https://github.com/ai-cain/iec-61131-3-insights) | Guides, best practices, and resources for the IEC 61131-3 standard |
+<p align="center">
+  <a href="https://github.com/ai-cain/iec-61131-3-insights">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=iec-61131-3-insights&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 </details>
 
@@ -167,14 +209,30 @@ Specialized in **real-time computer vision** and **industrial embedded systems**
 <summary><strong>🎓 Academic & MATLAB</strong></summary>
 <br>
 
-| Repository | Description |
-|:--|:--|
-| [matlab-legume-classifier](https://github.com/ai-cain/matlab-legume-classifier) | Legume classification system via image processing in MATLAB |
-| [matlab-image-processing-app-fx](https://github.com/ai-cain/matlab-image-processing-app-fx) | Interactive image transformation tool built with MATLAB App Designer |
-| [matlab-candy-cap-detection](https://github.com/ai-cain/matlab-candy-cap-detection) | Cap and candy detection, classification, and matching in MATLAB |
-| [matlab-audio-equalizer](https://github.com/ai-cain/matlab-audio-equalizer) | Audio equalizer built with MATLAB App Designer |
-| [special-functions-calculus](https://github.com/ai-cain/special-functions-calculus) | Notes on special functions with integrals, limits, and series |
-| [segmented-linear-fit-encoder](https://github.com/ai-cain/segmented-linear-fit-encoder) | Segmented linear fit encoder |
+<p align="center">
+  <a href="https://github.com/ai-cain/matlab-legume-classifier">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=matlab-legume-classifier&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ai-cain/matlab-image-processing-app-fx">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=matlab-image-processing-app-fx&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ai-cain/matlab-candy-cap-detection">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=matlab-candy-cap-detection&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ai-cain/matlab-audio-equalizer">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=matlab-audio-equalizer&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ai-cain/special-functions-calculus">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=special-functions-calculus&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ai-cain/segmented-linear-fit-encoder">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=segmented-linear-fit-encoder&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 </details>
 
@@ -182,12 +240,22 @@ Specialized in **real-time computer vision** and **industrial embedded systems**
 <summary><strong>📄 Publishing & Templates</strong></summary>
 <br>
 
-| Repository | Description |
-|:--|:--|
-| [cv-latex-template](https://github.com/ai-cain/cv-latex-template) | LaTeX CV template — free to use and customize |
-| [tex-content-publisher](https://github.com/ai-cain/tex-content-publisher) | TeX content publishing tools |
-| [lnx-science-education](https://github.com/ai-cain/lnx-science-education) | LaTeX & Python content for educational pages |
-| [portfolio](https://github.com/ai-cain/portfolio) | Personal portfolio website |
+<p align="center">
+  <a href="https://github.com/ai-cain/cv-latex-template">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=cv-latex-template&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ai-cain/tex-content-publisher">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=tex-content-publisher&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ai-cain/lnx-science-education">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=lnx-science-education&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ai-cain/portfolio">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ai-cain&repo=portfolio&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 </details>
 
