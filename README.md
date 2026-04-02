@@ -63,7 +63,7 @@ class Engineer:
         }
 
     async def deploy(self, target: str) -> str:
-        return f"✓ Optimized & deployed to {target}"
+        return f"Optimized & deployed to {target}"
 ```
 
 </td>
