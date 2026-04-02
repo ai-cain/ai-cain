@@ -56,10 +56,10 @@ class Engineer:
 
     def get_stack(self) -> Dict[str, List[str]]:
         return {
-            "vision":   ["CUDA", "TensorRT", "YOLO", "DeepStream"],
-            "embedded": ["ESP32", "FreeRTOS", "STM32", "ARM Cortex"],
-            "edge":     ["Jetson Orin", "Docker", "ONNX", "OpenVINO"],
-            "plc":      ["CODESYS", "IEC 61131-3", "Modbus", "OPC UA"],
+            "vision":   ["CUDA", "TensorRT", "YOLO"],
+            "embedded": ["ESP32", "FreeRTOS", "STM32"],
+            "edge":     ["Jetson", "Docker", , "OpenVINO"],
+            "plc":      ["CODESYS", "IEC 61131-3", "Modbus"],
         }
 
     async def deploy(self, target: str) -> str:
