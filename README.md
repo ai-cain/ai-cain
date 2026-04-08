@@ -1,9 +1,10 @@
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ai-cain&style=flat-square&color=444444" alt="Profile Views"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Gerald+Cainicela;Embedded+Systems+Engineer;Computer+Vision;AI+%26+Edge+Computing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Gerald+Cainicela;Embedded+Systems+Engineer;Computer+Vision;AI+%26+Edge+Computing" />
 </h1>
 
 <p align="center">
@@ -17,6 +18,53 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 🚀 What I Do
+
+I design and deploy **high-performance computer vision systems** for real-world industrial environments.
+
+- ⚡ Real-time pipelines (30+ FPS) under constrained hardware  
+- 🧠 GPU acceleration (CUDA / TensorRT / zero-copy)  
+- 🏭 Industrial vision systems (inspection, automation, edge deployment)  
+- 🔧 Robust perception under non-ideal conditions (lighting, noise, reflections)  
+
+---
+
+## ⚡ Impact
+
+- 🚀 Optimized production pipelines from **~14 → 30 coins/sec**  
+- ⚙️ Designed **lock-free, zero-copy architectures** for deterministic performance  
+- 🧠 Built **multi-stage CV pipelines**: segmentation → orientation → classification → defect detection  
+- 📡 Deployed systems on **Jetson (edge AI)** with real-time streaming and multi-client support  
+
+---
+
+## 🧠 Engineering Focus
+
+I specialize in systems where **hardware meets AI**, focusing on:
+
+- Deterministic real-time processing  
+- GPU memory optimization (cudaHostRegister, zero-copy)  
+- Scalable vision architectures (multi-process, shared memory)  
+- Industrial communication (CAN / J1939 / Modbus)  
+
+---
+
+## 📌 Highlight Project
+
+### 🔹 visual-coin-inspector (Industrial CV System)
+
+Real-time inspection system built for high-throughput production lines.
+
+- 🧩 C++ camera producer + Python consumers (shared memory)  
+- ⚡ Zero-copy GPU pipeline  
+- 🔄 Lock-free double buffering (0 ms overhead)  
+- 🧠 CV pipeline: segmentation → alignment → classification → defect detection  
+- 📡 WebSocket streaming to multiple clients  
+
+---
 
 <p align="center">
 <table>
@@ -58,13 +106,13 @@ class Engineer:
         return {
             "vision":   ["CUDA", "TensorRT", "YOLO"],
             "embedded": ["ESP32", "FreeRTOS", "STM32"],
-            "edge":     ["Jetson", "Docker", , "OpenVINO"],
+            "edge":     ["Jetson", "Docker", "OpenVINO"],
             "plc":      ["CODESYS", "IEC 61131-3", "Modbus"],
         }
 
     async def deploy(self, target: str) -> str:
         return f"Optimized & deployed to {target}"
-```
+````
 
 </td>
 <td width="50%" valign="top">
@@ -105,7 +153,7 @@ public:
 </tr>
 </table>
 
-Specialized in **real-time computer vision** and **industrial embedded systems**. I build high-performance pipelines for edge inference, industrial bus communication, and robust production deployments. My work sits at the intersection of hardware and AI — optimizing every frame and every byte.
+Specialized in **real-time computer vision** and **industrial embedded systems**. I build high-performance pipelines for edge inference, industrial bus communication, and robust production deployments.
 
 ---
 
@@ -326,3 +374,9 @@ Specialized in **real-time computer vision** and **industrial embedded systems**
 <p align="center">
   <sub>Lima, Peru · 2026</sub>
 </p>
+
+
+<p align="center">
+  <sub>Lima, Peru · 2026</sub>
+</p>
+
