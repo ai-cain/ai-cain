@@ -374,9 +374,3 @@ Specialized in **real-time computer vision** and **industrial embedded systems**
 <p align="center">
   <sub>Lima, Peru · 2026</sub>
 </p>
-
-
-<p align="center">
-  <sub>Lima, Peru · 2026</sub>
-</p>
-
