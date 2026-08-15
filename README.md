@@ -349,12 +349,12 @@ Specialized in **real-time computer vision** and **industrial embedded systems**
 <p align="center">
 <table>
 <tr>
-<td width="48%" valign="top">
+<td width="46%" valign="top">
   <img width="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=ai-cain&theme=tokyonight&hide_border=true" />
   <br>
   <img width="100%" src="https://github-profile-trophy-eight.vercel.app/?username=ai-cain&theme=tokyonight&no-frame=true&row=1&column=3&margin-w=10&margin-h=10&title=Commits,MultiLanguage,Repositories" />
 </td>
-<td width="48%" valign="top">
+<td width="46" valign="top">
   <img width="90%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ai-cain&layout=compact&theme=tokyonight&hide_border=true&langs_count=16" />
 </td>
 </tr>
